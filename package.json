@@ -11,14 +11,18 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages -d public -b master",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.20.25",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "gatsby": "^2.20.28",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "gatsby-plugin-sass": "^2.2.3",
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.1",
     "prettier": "2.0.4"
   },
   "repository": {
