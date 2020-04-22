@@ -1,1 +1,1 @@
-# It's My CV build with Gatsby
+# It's My CV built with Gatsby
