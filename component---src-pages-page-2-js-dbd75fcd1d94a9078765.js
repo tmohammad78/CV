@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{p5nM:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),r=a.n(t),c=a("Bl7J"),i=a("vrFN");n.default=function(){return r.a.createElement(c.a,null,r.a.createElement(i.a,{title:"Mohammad Taheri"}))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-dbd75fcd1d94a9078765.js.map
