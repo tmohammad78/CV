@@ -1,0 +1,41 @@
+.header__profile {
+  position: relative;
+
+  .image {
+    position: relative;
+    height: 275px;
+    -webkit-filter: blur(2px) brightness(0.6);
+    filter: blur(2px) brightness(0.6);
+    background-size: cover;
+    background-position: 50%;
+    background-image: url("../../images/front.png");
+  }
+
+  .header__info {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 80%;
+    padding:20px 0 0 0;
+
+    .name {
+      font-size: 1.2rem;
+    }
+
+    .header__pro {
+      .icons {
+        display: flex;
+        justify-content: space-between;
+        div {
+          width: 30px;
+          display: inline-block;
+        }
+
+        .inner {
+
+        }
+      }
+    }
+  }
+
+}
