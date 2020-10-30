@@ -17,11 +17,7 @@ const Layout = ({ children }) => {
     <>
       <Header />
       <div
-        style={{
-          margin: `0 auto`,
-          width: "80%",
-          padding: `0 1.0875rem 1.45rem`
-        }}
+        className="app"
       >
         <main>{children}</main>
         <footer style={{

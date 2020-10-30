@@ -39,6 +39,24 @@ svg {
   }
 }
 
+@media only screen and (max-width: 500px) {
+  .main {
+    .section {
+      display: block;
+
+      &__title {
+        padding: 15px 0;
+        width: 100%;
+      }
+
+      &__box {
+        width: 100%;
+      }
+    }
+  }
+}
+
+
 li {
   list-style: none;
 }
