@@ -1,5 +1,14 @@
 export const exp = [
   {
+    name: "Snapp",
+    url: "https://www.linkedin.com/company/snapp.ir",
+    position: "Frontend Software Engineer",
+    date: "June 2021 - present",
+    description: [
+      "We are developing new version of digital sign up for online registration of drivers and participate on snapp boilerplate for base of our projects and ui-kit for our ui components , and develop some parts of new version of backoffice ",
+    ],
+  },
+  {
     name: "Mahsan",
     url: "https://www.linkedin.com/company/mahsan/",
     position: "Frontend Developer",
